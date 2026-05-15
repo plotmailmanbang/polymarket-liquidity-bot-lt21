@@ -1,4 +1,4 @@
-# 
+# premium bot for Polymarket - take-profit-orders and price-monitoring offers the most advanced Polymarket bot, with take-profit-orders and price-monitoring. Ideal for professional
 
 
 
